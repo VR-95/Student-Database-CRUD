@@ -6,9 +6,6 @@ A backend REST API for managing student records (Create, Read, Update, Delete), 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688) ![SQLite](https://img.shields.io/badge/SQLite-database-003B57) ![Tests](https://img.shields.io/badge/tests-113%20passed-brightgreen)
 
-PREVIEW: after you add your screenshot or GIF to the docs/ folder,
-delete the first and last line of this comment block so the image shows.
-
 ## Preview
 
 ![Swagger UI demo](docs/demo.gif)
